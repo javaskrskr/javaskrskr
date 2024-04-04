@@ -1,11 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently in Tokyo
-- 🌱 I’m currently learning vue and nxutjs, and I want to strength my frontend skills
-- 🌱 I’m going to learn nextJs, java, spring,
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🌱 I’m currently learning frontend: vue and nuxtjs, DevOps: K8S, vercel deployment backend: python flask, java jpa, spring-boot
+- 👯 I’m looking to collaborate on any start-up, IT agency, the place that I could utilize my knowledge and skills
+- 🤔 I’m looking for help with full-stack development, exploring/researching tasks, cloud solutions on AWS, backend development 
 - 📫 How to reach me: monkeichow2@gmail.com
 - ⚡ Fun fact: I love building stuff, learn new-techs
 
