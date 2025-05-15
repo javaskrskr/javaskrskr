@@ -1,84 +1,92 @@
-### Hi there, I’m Timothy CHOW from Hong Kong 👋
+# 👋 Hi, I'm Timothy CHOW
 
-🔭 Currently based in **Tokyo**, working at a Web3 startup as a **solo developer** on various full-stack projects.
+🚀 **Full Stack | Web3 | DevOps Engineer** based in Tokyo, originally from Hong Kong 🇭🇰  
+💡 Passionate about building and shipping meaningful products—solo or in teams.  
+☕ Coffee-fueled. Fast learner. Startup-hardened. Open to exciting opportunities.
 
 ---
 
-### 🛠️ Projects I’ve Built
+## 🛠️ What I Build
 
-#### 📱 Telegram Mini App  
-- **Team:** 1 Designer, 1 Developer (me)  
+### 🧩 [Telegram Mini App – Web3 Daily Check-ins](#)
+- **Team:** 1 Designer, 1 Developer (Me)  
 - **Stack:** ViteJS, TypeScript, FastAPI, MySQL, Vercel  
-- **Duration:** 2 weeks  
-- Built 30+ APIs to enable daily & weekly check-ins with point reward mechanics  
-- Integrated gamified features to boost GameFi community engagement  
-- Set up CI/CD pipelines and deployed infrastructure  
-- Wrote and maintained comprehensive API documentation  
+- **Timeframe:** 2 weeks  
+- ✅ Built 30+ APIs for user check-ins, point earnings  
+- ✅ Strengthened GameFi community through branding & engagement  
+- ✅ Set up full CI/CD, infra, and API documentation
 
-#### 🛒 NFT Marketplace  
-- **Team:** Solo  
-- **Stack:** IPFS, Pinata, AWS, Solidity, Ethers.js, Wagmi, Hardhat, Express, Next.js, MongoDB, MySQL, Moralis, Redis, Ably, Tailwind, Vercel  
-- **Duration:** 4 months  
-- Designed full UX/UI flow and smart contracts for ERC20, ERC721, marketplace  
-- Enabled lazy minting, metadata encoding/decoding, and off-chain listings  
-- Real-time transactions with WebSocket (Ably)  
-- Implemented sorting, buying, selling, and payment with ERC20 tokens  
-- Integrated point reward system linked with game mechanics  
-- Documented system architecture and deployment  
+### 🎨 [NFT Marketplace – Full Web3 Trading Platform](#)
+- **Team:** Solo Developer  
+- **Stack:** Next.js, Solidity, Hardhat, Ethers.js, Wagmi, Redis, Express, MongoDB, MySQL, IPFS, Ably, AWS, Tailwind, Moralis, Vercel  
+- **Timeframe:** 3 months  
+- ✅ Designed UI/UX from scratch  
+- ✅ Deployed ERC20/ERC721 smart contracts (lazy minting, gas fee logic)  
+- ✅ Real-time transactions w/ WebSockets  
+- ✅ Off-chain listing & metadata services  
+- ✅ Full reward system integration + point mechanics  
+- ✅ Authored deployment and system design docs
 
-#### ⛳ Google Golf Courses Marker  
-- **Team:** 1 GA, 1 Developer (me)  
+### ⛳ [Google Golf Course Marker](#)
+- **Team:** 1 Google Analyst, 1 Developer (Me)  
 - **Stack:** Express.js, Next.js, Google Maps API  
-- **Duration:** 2 week  
-- Built place search with text-based location for global golf courses  
-- Allowed region adjustments and coordinate exports  
-- Delivered frontend and backend separately via Vercel  
-- Currently integrating AI segmentation using Roboflow on 20,000+ satellite images to auto-detect golf course areas  
+- **Timeframe:** 1 week  
+- ✅ Global text search for golf courses  
+- ✅ Polygon editing by country  
+- ✅ Rapid delivery under strict deadline
 
 ---
 
-### 💼 Work Experience
+## 💼 Past Experience
 
-#### Blockchain Company, Hong Kong  
-- Built racing game frontend/backend (Full Stack Developer)  
-- Explored Web3 applications and smart contract deployment  
-- Migrated infrastructure to AWS with Terraform (DevOps)  
-
-#### IT Agency, Hong Kong  
-- Developed digital forms, membership portals, and POS backends  
-- Handled API integrations and UAT-to-production transitions  
-
-#### Startup, Hong Kong  
-- Created Web3 management platform and Telegram bots  
-- Developed hand-recognition tools (AI/ML prototype)  
+| Role                        | Description                                                                 |
+|-----------------------------|-----------------------------------------------------------------------------|
+| 👨‍💻 **Software Engineer** @ HK International Blockchain Company | Built full-stack dApps, racing game infra, explored Web3 integrations |
+| 🔧 **Backend Developer** @ IT Agency | API development, POS integration, UAT testing, production handover    |
+| 🧠 **Full Stack Dev** @ Startup | Built management platform, Telegram bots, hand-tracking web tools      |
+| ⚙️ **DevOps Engineer** | Migrated AWS infra w/ Terraform, CI/CD pipelines                          |
 
 ---
 
-### 🌱 Currently Learning  
-- **Frontend:** Vue, Nuxt.js  
-- **Backend:** Flask, Java (JPA, Spring Boot)  
-- **DevOps:** K8s, Docker, Azure, GitOps  
-- **Others:** Web3, MediaPipe, Python STT  
+## 🌱 Currently Learning
+
+- **Frontend:** Vue.js, Nuxt.js  
+- **Backend:** Python (Flask), Java (JPA, Spring Boot)  
+- **DevOps:** Kubernetes, Docker, GitOps, Azure, GitHub Actions  
+- **Certs:** 📘 Studying for [CKA](https://www.cncf.io/certification/cka/) & [HashiCorp Terraform Associate](https://developer.hashicorp.com/certifications/terraform-associate)
 
 ---
 
-### 🚀 Upcoming Goals  
-- Build a voice-to-text app using Python  
-- Launch an NFT web app with full smart contract flow  
-- Learn Java backend development with Spring Boot  
-- Master Kubernetes on Azure using GitHub CI/CD  
-- Complete CKA and/or HashiCorp Terraform certifications  
-- Finish Coursera's online MCS-related courses  
+## 🚀 What's Next?
+
+- 🎙️ Build a **voice-to-text** web app with Python + Whisper  
+- 🧪 Launch NFT collection with dApp and backend infra  
+- 🖥️ Build scalable web apps with **Java + Spring Boot**  
+- 🔄 Set up **GitOps pipelines** on Azure with Kubernetes  
+- 📚 Finish the UIUC Coursera Online MCS program
 
 ---
 
-### 🤝 Open to Collaborations  
-Looking to join startups or agencies where I can contribute as a Full Stack Developer, Web3 Engineer, or Cloud Developer.
+## 🤝 Looking to Collaborate
+
+- Startups or agencies needing full-stack developers  
+- Web3 dApp experiments or API integrations  
+- Cloud infra & DevOps enhancement  
+- Research or prototyping ideas
 
 ---
 
-📫 **Reach me at:** [monkeichow2@gmail.com](mailto:monkeichow2@gmail.com)  
-⚡ **Fun fact:** I’m a coffee addict ☕, fast learner, and love building cool things!
+## 📫 Reach Me
+
+- 📧 Email: [monkeichow2@gmail.com](mailto:monkeichow2@gmail.com)
+- 🌐 Portfolio: [your-portfolio-link.com] *(Add your portfolio here)*  
+- 💼 LinkedIn: [linkedin.com/in/your-profile] *(Optional)*
+
+---
+
+## ⚡ Fun Fact
+
+I'm a coffee-addict 🧋, startup survivor 🧠, and I love building things that matter 🚀.
 
 ---
 
@@ -115,3 +123,9 @@ Looking to join startups or agencies where I can contribute as a Full Stack Deve
 ### 📜 Certifications
 
 <p align="center"><img src="https://skillicons.dev/icons?i=aws" /></p>
+
+
+---
+
+> “Build fast, break less, learn constantly.”  
+> — Timothy Chow
