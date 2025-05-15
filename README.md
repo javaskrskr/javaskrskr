@@ -79,8 +79,8 @@
 ## 📫 Reach Me
 
 - 📧 Email: [monkeichow2@gmail.com](mailto:monkeichow2@gmail.com)
-- 🌐 Portfolio: [your-portfolio-link.com] *(Add your portfolio here)*  
-- 💼 LinkedIn: [linkedin.com/in/your-profile] *(Optional)*
+- 🌐 Portfolio: [https://javaskr.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/timothy-chow-javaskr]
 
 ---
 
