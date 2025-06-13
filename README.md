@@ -27,13 +27,16 @@
 - ✅ Full reward system integration + point mechanics  
 - ✅ Authored deployment and system design docs
 
-### ⛳ [Google Golf Course Marker](#)
-- **Team:** 1 Google Analyst, 1 Developer (Me)  
-- **Stack:** Express.js, Next.js, Google Maps API  
+### 🤖 [Human Settlement Marker](#)
+- **Team:** 1 Developer (Me)  
+- **Stack:** Express.js, Next.js, Google Maps API, Roboflow, Yolo 
 - **Timeframe:** 1 week  
-- ✅ Global text search for golf courses  
+- ✅ Global text search for target human settlement
 - ✅ Polygon editing by country  
 - ✅ Rapid delivery under strict deadline
+- ✅ Image segmentation
+- ✅ Model training
+- ✅ Target human settlement recognization with 15000+ items
 
 ---
 
@@ -41,7 +44,7 @@
 
 | Role                        | Description                                                                 |
 |-----------------------------|-----------------------------------------------------------------------------|
-| 👨‍💻 **Software Engineer** @ HK International Blockchain Company | Built full-stack dApps, racing game infra, explored Web3 integrations |
+| 👨‍💻 **Software Engineer** @ International Blockchain Company | Worked on full-stack dApps, racing game infra, explored Web3 integrations |
 | 🔧 **Backend Developer** @ IT Agency | API development, POS integration, UAT testing, production handover    |
 | 🧠 **Full Stack Dev** @ Startup | Built management platform, Telegram bots, hand-tracking web tools      |
 | ⚙️ **DevOps Engineer** | Migrated AWS infra w/ Terraform, CI/CD pipelines                          |
@@ -50,30 +53,30 @@
 
 ## 🌱 Currently Learning
 
-- **Frontend:** Vue.js, Nuxt.js  
+- **Frontend:** Vue.js, Nuxt.js, Next.js
 - **Backend:** Python (Flask), Java (JPA, Spring Boot)  
 - **DevOps:** Kubernetes, Docker, GitOps, Azure, GitHub Actions  
-- **Certs:** 📘 Studying for [CKA](https://www.cncf.io/certification/cka/) & [HashiCorp Terraform Associate](https://developer.hashicorp.com/certifications/terraform-associate)
+- **Certs:** 📘 Studying for IBM Online Course, [CKA](https://www.cncf.io/certification/cka/) & [HashiCorp Terraform Associate](https://developer.hashicorp.com/certifications/terraform-associate)
 
 ---
 
 ## 🚀 What's Next?
 
+- 📚 Work on personal website
+- 👾 Work on Konwledge LLM application
 - 🎙️ Build a **voice-to-text** web app with Python + Whisper  
 - 🧪 Launch NFT collection with dApp and backend infra  
 - 🖥️ Build scalable web apps with **Java + Spring Boot**  
 - 🔄 Set up **GitOps pipelines** on Azure with Kubernetes  
-- 📚 Finish the UIUC Coursera Online MCS program
 
 ---
 
-## 🤝 Looking to Collaborate
+## 🤝 Looking for
 
-- Startups or agencies needing full-stack developers  
-- Web3 dApp experiments or API integrations  
+- Software Engineer or full-stack developers position / oppotunities
 - Cloud infra & DevOps enhancement  
 - Research or prototyping ideas
-
+  
 ---
 
 ## 📫 Reach Me
