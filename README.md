@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Timothy CHOW
 
-🚀 **Full Stack | Web3 | DevOps Engineer** based in Tokyo, originally from Hong Kong 🇭🇰  
+🚀 **Software Engineer | Full Stack Developer | DevOps Engineer** based in Tokyo, originally from Hong Kong 🇭🇰  
 💡 Passionate about building and shipping meaningful products—solo or in teams.  
 ☕ Coffee-fueled. Fast learner. Startup-hardened. Open to exciting opportunities.
 
