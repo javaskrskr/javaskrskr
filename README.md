@@ -95,8 +95,8 @@ I'm a coffee-addict 🧋, startup survivor 🧠, and I love building things that
 
 ### 📈 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=javaskrskr&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javaskrskr&layout=compact&theme=dark)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=javaskrskr&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)  
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=javaskrskr&layout=compact&theme=dark)
 
 ---
 
