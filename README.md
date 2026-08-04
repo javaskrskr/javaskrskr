@@ -1,95 +1,89 @@
 # 👋 Hi, I'm Timothy CHOW
 
-🚀 **Software Engineer | Full Stack Developer | DevOps Engineer** based in Tokyo, originally from Hong Kong 🇭🇰  
-💡 Passionate about building and shipping meaningful products—solo or in teams.  
-☕ Coffee-fueled. Fast learner. Startup-hardened. Open to exciting opportunities.
+🚀 **AI & Full Stack Engineer | Cloud & DevOps Specialist** based in Tokyo, originally from Hong Kong 🇭🇰  
+💡 Passionate about building and scaling intelligent platforms, LLM/RAG applications, and cloud infrastructure.  
+☕ Coffee-fueled. Fast learner. Startup-hardened. Open to exciting AI & Full-Stack opportunities.
 
 ---
 
 ## 🛠️ What I Build
 
-### 🧩 [Telegram Mini App – Web3 Daily Check-ins](#)
-- **Team:** 1 Designer, 1 Developer (Me)  
-- **Stack:** ViteJS, TypeScript, FastAPI, MySQL, Vercel  
-- **Timeframe:** 2 weeks  
-- ✅ Built 30+ APIs for user check-ins, point earnings  
-- ✅ Strengthened GameFi community through branding & engagement  
-- ✅ Set up full CI/CD, infra, and API documentation
+### 🧠 In-House AI News & RAG Platform
+- **Role:** AI Platform Engineer  
+- **Stack:** Next.js, Bun, Supabase (Vector Search), Azure OpenAI, OpenRouter, Python, AWS, GCP, Terraform, Coolify  
+- **Timeframe:** 2026  
+- ✅ Built multi-tenant platform with RAG, document clustering, and RBAC admin controls  
+- ✅ Automated continuous scraping pipelines and multi-channel alerting (Slack, Teams, LINE)  
+- ✅ Deployed production multi-tier infrastructure with IaC using Terraform  
 
-### 🎨 [NFT Marketplace – Full Web3 Trading Platform](#)
-- **Team:** Solo Developer  
-- **Stack:** Next.js, Solidity, Hardhat, Ethers.js, Wagmi, Redis, Express, MongoDB, MySQL, IPFS, Ably, AWS, Tailwind, Moralis, Vercel  
-- **Timeframe:** 3 months  
-- ✅ Designed UI/UX from scratch  
-- ✅ Deployed ERC20/ERC721 smart contracts (lazy minting, gas fee logic)  
-- ✅ Real-time transactions w/ WebSockets  
-- ✅ Off-chain listing & metadata services  
-- ✅ Full reward system integration + point mechanics  
-- ✅ Authored deployment and system design docs
+### 🎙️ Voice AI Roadside Assistance Pipeline
+- **Role:** AI Platform Engineer  
+- **Stack:** Python, LLMs, Voice AI, Webhooks, E2E Testing Framework  
+- **Timeframe:** 2026  
+- ✅ Designed end-to-end voice AI triage system for insurance call routing  
+- ✅ Engineered context-aware dynamic handoffs to human agents  
+- ✅ Established rigorous feedback-driven E2E testing and monitoring loop  
 
-### 🤖 [Human Settlement Marker](#)
-- **Team:** 1 Developer (Me)  
-- **Stack:** Express.js, Next.js, Google Maps API, Roboflow, Yolo 
-- **Timeframe:** 1 week  
-- ✅ Global text search for target human settlement
-- ✅ Polygon editing by country  
-- ✅ Rapid delivery under strict deadline
-- ✅ Image segmentation
-- ✅ Model training
-- ✅ Target human settlement recognization with 15000+ items
+### 🤖 [Human Settlement Marker (AI Mapping Pipeline)](#)
+- **Role:** Solo Developer  
+- **Stack:** Next.js, Express.js, Roboflow, YOLO, Google Maps API  
+- **Timeframe:** 2024 – 2025  
+- ✅ Automated satellite image detection for 20,000+ human settlements  
+- ✅ Converted pixel coordinates to geo-references, cutting ~6 months of manual tagging  
+- ✅ Built global text search and polygon boundary tools by country  
 
 ---
 
 ## 💼 Past Experience
 
-| Role                        | Description                                                                 |
-|-----------------------------|-----------------------------------------------------------------------------|
-| 👨‍💻 **Software Engineer** @ International Blockchain Company | Worked on full-stack dApps, racing game infra, explored Web3 integrations |
-| 🔧 **Backend Developer** @ IT Agency | API development, POS integration, UAT testing, production handover    |
-| 🧠 **Full Stack Dev** @ Startup | Built management platform, Telegram bots, hand-tracking web tools      |
-| ⚙️ **DevOps Engineer** | Migrated AWS infra w/ Terraform, CI/CD pipelines                          |
+| Role | Period | Highlights |
+|---|---|---|
+| 🤖 **AI Platform Engineer** | *2026/01 – Present* | Voice AI triage, enterprise RAG platforms, automated scrapers & multi-cloud IaC |
+| 👨‍💻 **Software Engineer** | *2024/08 – 2025/12* | AI satellite mapping pipelines, high-throughput WebSockets, and scalable web apps |
+| 🧠 **Full Stack Developer** | *2023/09 – 2024/01* | Flask backend scaling, Redis caching, and real-time TensorFlow gesture recognition |
+| 🔧 **Backend Developer** | *2023/03 – 2023/09* | Rebuilt marketplace in NestJS + GraphQL; authored 300+ automated test suites |
+| ⚙️ **Software Engineer** | *2021/11 – 2023/02* | CI/CD migration to Terraform-managed Kubernetes on AWS; internal admin tooling |
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Learning & Certifications
 
-- **Frontend:** Vue.js, Nuxt.js, Next.js
-- **Backend:** Python (Flask), Java (JPA, Spring Boot)  
-- **DevOps:** Kubernetes, Docker, GitOps, Azure, GitHub Actions  
-- **Certs:** 📘 Studying for IBM Online Course, [CKA](https://www.cncf.io/certification/cka/) & [HashiCorp Terraform Associate](https://developer.hashicorp.com/certifications/terraform-associate)
+- **AI / ML:** DeepLearning.AI ML Specialization (Completed 2025), RAG architectures, Fine-tuning  
+- **Cloud & DevOps:** CKA (Certified Kubernetes Administrator), HashiCorp Terraform, GitOps  
+- **Japanese Proficiency:** JLPT N2 (Passed 2024) | Business Japanese J3  
+- **Cloud Cert:** AWS Certified Solutions Architect – Associate  
 
 ---
 
 ## 🚀 What's Next?
 
-- 📚 Work on personal website
-- 👾 Work on Konwledge LLM application
-- 🎙️ Build a **voice-to-text** web app with Python + Whisper  
-- 🧪 Launch NFT collection with dApp and backend infra  
-- 🖥️ Build scalable web apps with **Java + Spring Boot**  
-- 🔄 Set up **GitOps pipelines** on Azure with Kubernetes  
+- 🎙️ Scaling real-time **voice-to-text / Voice AI** web applications  
+- 👾 Advanced Knowledge Graph + LLM/RAG application architectures  
+- 🖥️ High-performance web backend services with **Java + Spring Boot** & **Python**  
+- 🔄 Setting up **GitOps pipelines** on Azure & AWS with Kubernetes  
+- 📚 Continuous expansion of portfolio & personal site ([javaskr.com](https://javaskr.com))  
 
 ---
 
 ## 🤝 Looking for
 
-- Software Engineer or full-stack developers position / oppotunities
-- Cloud infra & DevOps enhancement  
-- Research or prototyping ideas
-  
+- AI Engineer, Full-Stack Developer, or Platform Engineer opportunities  
+- LLM/RAG integration and cloud infrastructure enhancement projects  
+- Research, prototyping, and productionizing AI features  
+
 ---
 
 ## 📫 Reach Me
 
-- 📧 Email: [monkeichow2@gmail.com](mailto:monkeichow2@gmail.com)
-- 🌐 Portfolio: [https://javaskr.com]
-- 💼 LinkedIn: [https://www.linkedin.com/in/timothy-chow-javaskr]
+- 📧 Email: [monkeichow@gmail.com](mailto:monkeichow@gmail.com)  
+- 🌐 Portfolio: [https://javaskr.com](https://javaskr.com)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/timothy-chow-javaskr](https://www.linkedin.com/in/timothy-chow-javaskr)  
 
 ---
 
 ## ⚡ Fun Fact
 
-I'm a coffee-addict 🧋, startup survivor 🧠, and I love building things that matter 🚀.
+I'm a coffee addict 🧋, startup survivor 🧠, and passionate about turning AI research into real-world software 🚀.
 
 ---
 
@@ -100,33 +94,17 @@ I'm a coffee-addict 🧋, startup survivor 🧠, and I love building things that
 
 ---
 
-### 🧠 My Background
+### 💻 Tech Stack & Tools
 
-<p align="">
-  <a href="https://www.linkedin.com/in/timothy-chow-javaskrr/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://github.com/javaskrskr">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,py,html,css,nodejs,bun,express,nestjs,react,nextjs" /></a></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,postgres,mysql,mongodb,redis,supabase,graphql" /></a></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,git,github,gitlab,vercel" /></a></p>
 
 ---
 
-### 💻 My Tech Stacks
-
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,postgres,express,react" /></a></p>
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,mongodb,nestjs,apollo,graphql,redis,py" /></a></p>
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap,redux,tailwind,vite,babel,webpack,vim" /></a></p>
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,bash,powershell,docker,aws,terraform" /></a></p>
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vercel,heroku,postman,netlify,firebase,kubernetes" /></a></p>
-
----
-
-### 📜 Certifications
+### 📜 Certifications & Credentials
 
 <p align="center"><img src="https://skillicons.dev/icons?i=aws" /></p>
-
 
 ---
 
