@@ -24,7 +24,7 @@
 - ✅ Engineered context-aware dynamic handoffs to human agents  
 - ✅ Established rigorous feedback-driven E2E testing and monitoring loop  
 
-### 🤖 [Human Settlement Marker (AI Mapping Pipeline)](#)
+### 🤖 Human Settlement Marker (AI Mapping Pipeline)
 - **Role:** Solo Developer  
 - **Stack:** Next.js, Express.js, Roboflow, YOLO, Google Maps API  
 - **Timeframe:** 2024 – 2025  
